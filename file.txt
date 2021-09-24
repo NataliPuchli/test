@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 hello
 hello2
 hello3.
 ADD line
->>>>>>> 5850ac5... new commit
